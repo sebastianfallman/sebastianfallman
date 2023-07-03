@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sebastianfallman
-- 🌱 I’m currently a Software Engineering student at Uppsala University 
+- 🌱 I’m currently a Software Developer at Knightec! 
 <!--- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
